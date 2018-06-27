@@ -1,4 +1,5 @@
-All required files for setting up a Ethereum testnet with custom ERC20 token.
+For future self:
+All required files for setting up a Ethereum testnet with custom ERC20 token contract.
 
 Get geth.exe from here: https://geth.ethereum.org/downloads/
 
@@ -27,3 +28,5 @@ geth --datadir <i>path</i> --networkid <i>ID[integer]</i> --identity <i>"string"
 geth --datadir <i>path</i> --networkid <i>ID[integer]</i> --identity <i>"string"</i> --rpc --rpcaddr <i>"IP address"</i> --rpcport <i>"port"</i> --rpccorsdomain "*" --rpcapi "eth,web3,personal,admin,mine,net" --verbosity 2 --nodiscover --maxpeers 8 attach <i>http://IPaddress:port</i> console
 
 <i>http://IPaddress:port</i> e.g. http://192.168.21.104:52353
+
+9) Get Ethereum Wallet and Google the rest.
