@@ -9,7 +9,7 @@ Start CMD, navigate to where geth.exe is or use <i>folderInWhichGethExeIs/geth</
 
 geth --datadir <i>path</i> init <i>genesis file</i>
 
-2) --networdid can be any number (I think it is any, sticked with 5 digits for reasons I can't remember), e.g. 54652
+2) --networkid can be any number (I think it is any, sticked with 5 digits for reasons I can't remember), e.g. 54652
 3) --identity is string, e.g. "BeternumNetwork".
 4) --rpcaddr is IP address of PC where testnet is running, e.g. "192.168.21.104".
 5) --rpcport is port at which you want to connect, e.g. "52353"
