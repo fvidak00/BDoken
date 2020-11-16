@@ -23,7 +23,11 @@ Professional practice was split in 2 parts, basic draft and final version:
     Final version: https://github.com/fvidak00/BDhub
     Custom cryptocurreny and testnet: https://github.com/fvidak00/BDoken
 
+
+
+
 For future self:
+
 All required files for setting up a Ethereum testnet with custom ERC20 token contract.
 
 Get geth.exe from here: https://geth.ethereum.org/downloads/
